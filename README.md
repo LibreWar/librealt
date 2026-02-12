@@ -31,7 +31,7 @@ most apps today track user activity, collect personal data, or lock features beh
 ## user features
 
 - scan installed apps on your device  
-- discover available libre / FOSS alternatives  
+- discover and download available libre / FOSS alternatives  
 - view license information and links to official repositories or project pages  
 - cross-platform support: android, ios, windows, linux  
 - lightweight, fast, and privacy-respecting  
