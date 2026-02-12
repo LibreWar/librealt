@@ -67,7 +67,7 @@ allow it to scan installed apps (all local)
 
 explore detected libre / FOSS alternatives
 
-
+```
 
 ---
 
