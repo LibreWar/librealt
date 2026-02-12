@@ -7,6 +7,10 @@
 
 ![GPL-3.0 License](https://img.shields.io/badge/license-GPL--3.0-blue)
 ![Platform](https://img.shields.io/badge/platform-Android%2FiOS%2FWindows%2FLinux-lightgrey)
+![Release](https://img.shields.io/github/v/release/LibreWar/librealt)
+![Stars](https://img.shields.io/github/stars/LibreWar/librealt)
+![Forks](https://img.shields.io/github/forks/LibreWar/librealt)
+![Language](https://img.shields.io/github/languages/top/LibreWar/librealt)
 
 ---
 
