@@ -3,7 +3,7 @@
 
 # librealt
 
-**librealt — cross-platform FOSS / libre app scanner**
+**librealt — cross-platform FOSS / libre app scanner / downloader**
 
 ![GPL-3.0 License](https://img.shields.io/badge/license-GPL--3.0-blue)
 ![Platform](https://img.shields.io/badge/platform-Android%2FiOS%2FWindows%2FLinux-lightgrey)
