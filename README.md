@@ -1,61 +1,71 @@
+
+---
+
 # librealt
 
----
+**librealt — cross-platform FOSS / libre app scanner**
 
-librealt
-
-librealt — cross-platform FOSS / libre app scanner
-
-librealt is an open-source toolkit that scans the apps installed on your device and shows which ones have fully libre or FOSS alternatives. it works on android, ios, windows, and linux, helping users discover open-source replacements for proprietary software without any guesswork.
-
+![GPL-3.0 License](https://img.shields.io/badge/license-GPL--3.0-blue)
+![Platform](https://img.shields.io/badge/platform-Android%2FiOS%2FWindows%2FLinux-lightgrey)
 
 ---
 
-why librealt
+## overview
 
-many apps today track your data or hide features behind closed code. librealt gives you a local, privacy-respecting way to see which apps on your device can be replaced with open-source alternatives. everything runs locally, nothing is sent online, and the database is updated regularly by the community.
+librealt is an open-source toolkit that **scans installed applications on your device** and shows fully **libre or FOSS alternatives**. it works on **android, ios, windows, and linux**, helping users replace proprietary software with open-source options while keeping data local and privacy-respecting.
 
-
----
-
-what it does
-
-scans installed apps to find potential libre/FOSS replacements
-
-shows license info and links to official project pages or repositories
-
-supports android, ios, windows, and linux
-
-runs locally and respects user privacy
-
-regularly updated with new libre apps
-
-
+it’s designed for anyone who wants to **take control of their software choices** and support the libre software ecosystem.
 
 ---
 
-getting started
+## the problem
 
-install / run
+most apps today track user activity, collect personal data, or lock features behind proprietary code. users often don’t know which apps could be replaced with libre alternatives. librealt solves this problem by providing a **local, transparent way** to see which apps on your device have open-source replacements, giving you control and freedom over your digital life.
 
-android/ios: install via F-droid, TestFlight, or build yourself
+---
 
-windows/linux: download binaries or build from source
+## user features
 
+- scan installed apps on your device  
+- discover available libre / FOSS alternatives  
+- view license information and links to official repositories or project pages  
+- cross-platform support: android, ios, windows, linux  
+- lightweight, fast, and privacy-respecting  
+- updated regularly with new libre apps  
 
-build from source
+---
 
+## technical features
+
+- scans apps locally, no personal data leaves your device  
+- curated database of libre and FOSS software  
+- modular, extensible design for easy updates and new platforms  
+- consistent cross-platform interface  
+- easy to integrate community contributions  
+
+---
+
+## getting started
+
+### installation
+
+- **android / ios**: install via F-droid, TestFlight, or self-build  
+- **windows / linux**: download binaries or build from source  
+
+### build from source
+
+```bash
 git clone https://github.com/LibreWar/librealt.git
 cd librealt
 # follow platform-specific instructions in /docs
 
-use the scanner
+usage
 
 open librealt
 
-let it scan your installed apps (all local)
+allow it to scan installed apps (all local)
 
-see which apps have FOSS/libre alternatives
+explore detected libre / FOSS alternatives
 
 
 
@@ -63,18 +73,18 @@ see which apps have FOSS/libre alternatives
 
 contributing
 
-we welcome help! you can:
+we welcome contributions in any form:
 
-add new apps to the database
+add new apps or update the database
 
 fix bugs or improve scanning
 
-update documentation or translations
+enhance documentation or translations
 
 
-how to contribute:
+workflow:
 
-1. fork the repo
+1. fork the repository
 
 
 2. create a branch
@@ -87,7 +97,7 @@ git checkout -b my-feature
 
 
 
-git commit -am "add/update something"
+git commit -am "add/update feature"
 
 4. push & open a pull request
 
@@ -96,7 +106,19 @@ git commit -am "add/update something"
 
 ---
 
-related / similar projects
+public communities
+
+you can join discussions or ask for help in the following places:
+
+matrix: #librealt
+
+lemmy: !librealt@feddit.rocks
+
+
+
+---
+
+related projects / extensions
 
 F-droid — open-source android apps
 
@@ -104,6 +126,43 @@ AppImageHub — portable linux apps
 
 Homebrew / Linuxbrew — libre software package managers
 
+librewolf — privacy-respecting firefox fork
+
+libretube — alternative frontend for YouTube (android)
+
+
+
+---
+
+mirrors
+
+if you want to host or access librealt from multiple platforms:
+
+github: https://github.com/LibreWar/librealt
+
+gitlab mirror: https://gitlab.com/LibreWar/librealt
+
+self-hosted binaries: see /releases
+
+
+
+---
+
+donations
+
+support continued development and database curation:
+
+crypto:
+
+BTC / ETH / XMR / Nano (addresses in /docs/donations.md)
+
+
+fiat:
+
+liberapay
+
+
+all contributions are appreciated and help keep librealt libre.
 
 
 ---
@@ -111,6 +170,5 @@ Homebrew / Linuxbrew — libre software package managers
 license
 
 GPL‑3.0-or-later — all forks and contributions must remain libre.
-
 
 ---
