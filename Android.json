@@ -9,7 +9,7 @@
   "newpipe": {
     "name": "NewPipe",
     "license": "GPL-3.0",
-    "url": "https://github.com/TeamNewPipe/NewPipe/releases/latest/download/NewPipe.apk",
+    "url": "https://archive.newpipe.net/fdroid/repo/NewPipe_v0.28.3.apk",
     "type": "apk",
     "version": "latest"
   },
@@ -23,7 +23,7 @@
   "vanced": {
     "name": "Vanced MicroG",
     "license": "Apache-2.0",
-    "url": "https://github.com/YTVanced/VancedMicroG/releases/latest/download/VancedMicroG.apk",
+    "url": "https://github.com/TeamVanced/VancedMicroG/releases/download/v0.2.24.220220-220220001/microg.apk",
     "type": "apk",
     "version": "latest"
   }
