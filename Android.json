@@ -2,21 +2,25 @@
   "Streaming Apps": {
     "libretube": {
       "name": "LibreTube",
-      "url": "https://github.com/libre-tube/LibreTube/releases/download/v0.30.0/app-release.apk"
+      "url": "https://github.com/libre-tube/LibreTube/releases/download/v0.30.0/app-release.apk",
+      "description": "Alternative YouTube frontend for Android, privacy-respecting, no ads."
     },
     "newpipe": {
       "name": "NewPipe",
-      "url": "https://archive.newpipe.net/fdroid/repo/NewPipe_v0.28.3.apk"
+      "url": "https://archive.newpipe.net/fdroid/repo/NewPipe_v0.28.3.apk",
+      "description": "Lightweight YouTube frontend, supports background playback and downloads."
     }
   },
   "Utilities": {
     "fdroid": {
       "name": "F-Droid",
-      "url": "https://f-droid.org/F-Droid.apk"
+      "url": "https://f-droid.org/F-Droid.apk",
+      "description": "Open-source Android app repository, discover libre apps easily."
     },
     "vanced": {
       "name": "Vanced MicroG",
-      "url": "https://github.com/TeamVanced/VancedMicroG/releases/download/v0.2.24.220220-220220001/microg.apk"
+      "url": "https://github.com/TeamVanced/VancedMicroG/releases/download/v0.2.24.220220-220220001/microg.apk",
+      "description": "Required MicroG support for Vanced YouTube to run on Android."
     }
   }
 }
