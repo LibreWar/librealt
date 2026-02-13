@@ -13,13 +13,6 @@
     "type": "apk",
     "version": "latest"
   },
-  "librewolf": {
-    "name": "LibreWolf Browser",
-    "license": "MPL-2.0",
-    "url": "https://github.com/librewolf-community/LibreWolf/releases/latest/download/LibreWolf.apk",
-    "type": "apk",
-    "version": "latest"
-  },
   "fdroid": {
     "name": "F-Droid",
     "license": "GPL-3.0",
