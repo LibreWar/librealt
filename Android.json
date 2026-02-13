@@ -2,7 +2,7 @@
   "libretube": {
     "name": "LibreTube",
     "license": "GPL-3.0",
-    "url": "https://github.com/LibreTube/LibreTube/releases/latest/download/LibreTube.apk",
+    "url": "https://github.com/libre-tube/LibreTube/releases/download/v0.30.0/app-release.apk",
     "type": "apk",
     "version": "latest"
   },
