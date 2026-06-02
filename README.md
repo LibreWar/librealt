@@ -1,7 +1,7 @@
 
 ---
 
-# librealt
+# --librealt-- obsolete go to https://github.com/funnymanboob-tech/hi
 
 **librealt — cross-platform FOSS / libre app scanner / downloader**
 
