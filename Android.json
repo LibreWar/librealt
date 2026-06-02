@@ -2,25 +2,128 @@
   "Streaming Apps": {
     "libretube": {
       "name": "LibreTube",
-      "url": "https://github.com/libre-tube/LibreTube/releases/download/v0.30.0/app-release.apk",
+      "url": "https://github.com/libre-tube/LibreTube/releases",
       "description": "Alternative YouTube frontend for Android, privacy-respecting, no ads."
     },
     "newpipe": {
       "name": "NewPipe",
-      "url": "https://archive.newpipe.net/fdroid/repo/NewPipe_v0.28.3.apk",
-      "description": "Lightweight YouTube frontend, supports background playback and downloads."
+      "url": "https://newpipe.net/",
+      "description": "Lightweight YouTube frontend with downloads and background playback."
+    },
+    "grayjay": {
+      "name": "Grayjay",
+      "url": "https://grayjay.app/",
+      "description": "Unified media frontend for YouTube, Twitch, podcasts."
+    },
+    "seal": {
+      "name": "Seal",
+      "url": "https://github.com/JunkFood02/Seal",
+      "description": "Frontend for yt-dlp on Android for media downloading (advanced users)."
     }
   },
+
   "Utilities": {
     "fdroid": {
       "name": "F-Droid",
-      "url": "https://f-droid.org/F-Droid.apk",
-      "description": "Open-source Android app repository, discover libre apps easily."
+      "url": "https://f-droid.org/",
+      "description": "Open-source Android app repository."
     },
-    "vanced": {
-      "name": "Vanced MicroG",
-      "url": "https://github.com/TeamVanced/VancedMicroG/releases/download/v0.2.24.220220-220220001/microg.apk",
-      "description": "Required MicroG support for Vanced YouTube to run on Android."
+    "aurora_store": {
+      "name": "Aurora Store",
+      "url": "https://auroraoss.com/",
+      "description": "Anonymous Play Store client without Google account."
+    },
+    "obtanium": {
+      "name": "Obtainium",
+      "url": "https://github.com/ImranR98/Obtainium",
+      "description": "Track and auto-update apps directly from GitHub/F-Droid sources."
+    },
+    "droidify": {
+      "name": "Droid-ify",
+      "url": "https://github.com/Droid-ify/client",
+      "description": "Modern F-Droid client with faster UI and better UX."
+    }
+  },
+
+  "Privacy Tools": {
+    "netguard": {
+      "name": "NetGuard",
+      "url": "https://github.com/M66B/NetGuard",
+      "description": "No-root firewall with per-app network control."
+    },
+    "tracker_control": {
+      "name": "TrackerControl",
+      "url": "https://github.com/OxfordHCC/tracker-control-android",
+      "description": "Detects and blocks trackers inside apps."
+    },
+    "rethink_dns": {
+      "name": "RethinkDNS",
+      "url": "https://rethinkdns.com/",
+      "description": "DNS + firewall + anti-tracking in one app."
+    },
+    "invizible_pro": {
+      "name": "InviZible Pro",
+      "url": "https://github.com/Gedsh/InviZible",
+      "description": "Tor + DNSCrypt + firewall stack for anonymity."
+    }
+  },
+
+  "Security Tools": {
+    "aegis": {
+      "name": "Aegis Authenticator",
+      "url": "https://getaegis.app/",
+      "description": "Encrypted 2FA app with backups and biometrics."
+    },
+    "andotp": {
+      "name": "andOTP",
+      "url": "https://github.com/andOTP/andOTP",
+      "description": "Offline 2FA authenticator (legacy but still used)."
+    },
+    "keepassdx": {
+      "name": "KeePassDX",
+      "url": "https://www.keepassdx.com/",
+      "description": "Offline encrypted password manager (KeePass format)."
+    }
+  },
+
+  "Communication": {
+    "signal": {
+      "name": "Signal",
+      "url": "https://signal.org/",
+      "description": "End-to-end encrypted messaging with minimal metadata."
+    },
+    "session": {
+      "name": "Session",
+      "url": "https://getsession.org/",
+      "description": "Anonymous messenger using onion routing."
+    },
+    "element": {
+      "name": "Element",
+      "url": "https://element.io/",
+      "description": "Matrix-based decentralized secure messaging."
+    },
+    "molly": {
+      "name": "Molly",
+      "url": "https://molly.im/",
+      "description": "Hardened privacy fork of Signal for advanced users."
+    }
+  },
+
+  "Media Tools": {
+    "vlc": {
+      "name": "VLC for Android",
+      "url": "https://www.videolan.org/vlc/download-android.html",
+      "description": "Universal media player, supports all formats."
+    },
+    "scrambled_exif": {
+      "name": "Scrambled Exif",
+      "url": "https://github.com/jonasbark/scrambled-exif",
+      "description": "Removes metadata from images before sharing."
+    },
+    "open_camera": {
+      "name": "Open Camera",
+      "url": "https://opencamera.org.uk/",
+      "description": "Open-source camera app with manual controls."
     }
   }
 }
