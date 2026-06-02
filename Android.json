@@ -9,6 +9,11 @@
       "name": "NewPipe",
       "url": "https://archive.newpipe.net/fdroid/repo/NewPipe_v0.28.3.apk",
       "description": "Lightweight YouTube frontend, supports background playback and downloads."
+    },
+    "grayjay": {
+      "name": "Grayjay",
+      "url": "https://grayjay.app/download",
+      "description": "Multi-platform media frontend (YouTube, Twitch, podcasts). Local-first and privacy-focused."
     }
   },
   "Utilities": {
@@ -21,6 +26,45 @@
       "name": "Vanced MicroG",
       "url": "https://github.com/TeamVanced/VancedMicroG/releases/download/v0.2.24.220220-220220001/microg.apk",
       "description": "Required MicroG support for Vanced YouTube to run on Android."
+    },
+    "aurora_store": {
+      "name": "Aurora Store",
+      "url": "https://auroraoss.com/download",
+      "description": "Anonymous Play Store client. Download Google Play apps without Google account."
+    },
+    "island": {
+      "name": "Island",
+      "url": "https://github.com/oasisfeng/island/releases",
+      "description": "App sandboxing tool using Android Work Profile isolation."
+    }
+  },
+  "Privacy Tools": {
+    "tracker_control": {
+      "name": "TrackerControl",
+      "url": "https://github.com/OxfordHCC/tracker-control-android/releases",
+      "description": "Monitors and blocks trackers in installed apps without root."
+    },
+    "netguard": {
+      "name": "NetGuard",
+      "url": "https://github.com/M66B/NetGuard/releases",
+      "description": "No-root firewall for per-app network blocking."
+    },
+    "bloktada": {
+      "name": "Blokada",
+      "url": "https://blokada.org/",
+      "description": "System-wide ad and tracker blocker using local VPN."
+    }
+  },
+  "Security Tools": {
+    "andotp": {
+      "name": "andOTP",
+      "url": "https://github.com/andOTP/andOTP/releases",
+      "description": "Offline 2FA authenticator with encrypted backups."
+    },
+    "aegis": {
+      "name": "Aegis Authenticator",
+      "url": "https://getaegis.app/",
+      "description": "Secure open-source 2FA app with encryption and biometrics."
     }
   }
 }

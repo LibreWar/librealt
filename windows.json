@@ -1,0 +1,179 @@
+{
+  "Browsers": {
+    "firefox": {
+      "name": "Firefox",
+      "url": "https://www.mozilla.org/firefox/",
+      "description": "Open-source browser with strong anti-tracking and extension support."
+    },
+    "librewolf": {
+      "name": "LibreWolf",
+      "url": "https://librewolf.net/",
+      "description": "Hardened Firefox fork with telemetry removed and privacy defaults enabled."
+    },
+    "brave": {
+      "name": "Brave Browser",
+      "url": "https://brave.com/",
+      "description": "Privacy browser with built-in ad and tracker blocking."
+    }
+  },
+
+  "Search & DNS": {
+    "nextdns": {
+      "name": "NextDNS",
+      "url": "https://nextdns.io/",
+      "description": "Configurable DNS firewall with tracker and malware blocking."
+    },
+    "quad9": {
+      "name": "Quad9 DNS",
+      "url": "https://quad9.net/",
+      "description": "Security-focused DNS blocking malicious domains automatically."
+    }
+  },
+
+  "VPN & Network Security": {
+    "proton_vpn": {
+      "name": "Proton VPN",
+      "url": "https://protonvpn.com/",
+      "description": "No-logs VPN with strong encryption and Swiss jurisdiction."
+    },
+    "mullvad": {
+      "name": "Mullvad VPN",
+      "url": "https://mullvad.net/",
+      "description": "Anonymous VPN with no account required."
+    },
+    "wireguard": {
+      "name": "WireGuard",
+      "url": "https://www.wireguard.com/",
+      "description": "Fast, modern VPN protocol used by many privacy services."
+    }
+  },
+
+  "Firewall & Network Control": {
+    "simplewall": {
+      "name": "simplewall",
+      "url": "https://github.com/henrypp/simplewall",
+      "description": "Lightweight Windows firewall control using Windows Filtering Platform."
+    },
+    "portmaster": {
+      "name": "Portmaster",
+      "url": "https://safing.io/portmaster/",
+      "description": "Full network monitoring and per-app firewall with DNS control."
+    }
+  },
+
+  "Security & Anti-Malware": {
+    "windows_defender": {
+      "name": "Microsoft Defender",
+      "url": "https://learn.microsoft.com/windows/security/",
+      "description": "Built-in antivirus with surprisingly strong baseline protection."
+    },
+    "malwarebytes": {
+      "name": "Malwarebytes",
+      "url": "https://www.malwarebytes.com/",
+      "description": "On-demand malware and adware removal tool."
+    },
+    "hitmanpro": {
+      "name": "HitmanPro",
+      "url": "https://www.hitmanpro.com/",
+      "description": "Second-opinion scanner for advanced malware detection."
+    }
+  },
+
+  "Privacy & System Hardening": {
+    "oos": {
+      "name": "O&O ShutUp10++",
+      "url": "https://www.oo-software.com/en/shutup10",
+      "description": "Disables Windows telemetry and privacy-invasive settings."
+    },
+    "wintoys": {
+      "name": "Wintoys",
+      "url": "https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD",
+      "description": "System tuning and cleanup tool for Windows privacy and performance."
+    },
+    "privacy_sexy": {
+      "name": "Privacy.sexy",
+      "url": "https://privacy.sexy/",
+      "description": "Script-based Windows hardening and debloating tool."
+    }
+  },
+
+  "App Management": {
+    "winget": {
+      "name": "Windows Package Manager (winget)",
+      "url": "https://learn.microsoft.com/windows/package-manager/",
+      "description": "Official CLI package manager for installing apps securely."
+    },
+    "chocolatey": {
+      "name": "Chocolatey",
+      "url": "https://chocolatey.org/",
+      "description": "Third-party package manager for Windows automation."
+    },
+    "scoop": {
+      "name": "Scoop",
+      "url": "https://scoop.sh/",
+      "description": "Minimalist CLI installer focused on developer tools."
+    }
+  },
+
+  "Encryption & Security Tools": {
+    "veracrypt": {
+      "name": "VeraCrypt",
+      "url": "https://www.veracrypt.fr/",
+      "description": "Disk encryption tool for full volume and container encryption."
+    },
+    "bitwarden": {
+      "name": "Bitwarden",
+      "url": "https://bitwarden.com/",
+      "description": "Open-source password manager with zero-knowledge encryption."
+    },
+    "keepassxc": {
+      "name": "KeePassXC",
+      "url": "https://keepassxc.org/",
+      "description": "Offline encrypted password manager."
+    }
+  },
+
+  "System Utilities": {
+    "process_explorer": {
+      "name": "Process Explorer",
+      "url": "https://learn.microsoft.com/sysinternals/downloads/process-explorer",
+      "description": "Advanced task manager showing deep system process behavior."
+    },
+    "autoruns": {
+      "name": "Autoruns",
+      "url": "https://learn.microsoft.com/sysinternals/downloads/autoruns",
+      "description": "View and control all auto-starting programs."
+    },
+    "wiztree": {
+      "name": "WizTree",
+      "url": "https://wiztreefree.com/",
+      "description": "Fast disk space analyzer."
+    }
+  },
+
+  "Media & Streaming Privacy": {
+    "vlc": {
+      "name": "VLC Media Player",
+      "url": "https://www.videolan.org/vlc/",
+      "description": "Open-source media player supporting nearly all formats."
+    },
+    "stremio": {
+      "name": "Stremio",
+      "url": "https://www.stremio.com/",
+      "description": "Media aggregation platform for streaming content from multiple sources."
+    }
+  },
+
+  "Development & Inspection Tools": {
+    "wireshark": {
+      "name": "Wireshark",
+      "url": "https://www.wireshark.org/",
+      "description": "Network packet analyzer for traffic inspection."
+    },
+    "fiddler": {
+      "name": "Fiddler Classic",
+      "url": "https://www.telerik.com/fiddler",
+      "description": "HTTP/HTTPS debugging proxy for traffic inspection."
+    }
+  }
+}

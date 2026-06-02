@@ -1,0 +1,175 @@
+{
+  "OS": [
+    {
+      "name": "Linux Mint",
+      "use_case": ["Daily Driver"],
+      "base": "Ubuntu",
+      "performance": 85,
+      "security": 70,
+      "desc": "The gold standard for people switching from Windows. Stable and familiar.",
+      "dl": "https://linuxmint.com/download.php",
+      "docs": "https://linuxmint.com/documentation.php"
+    },
+    {
+      "name": "MX Linux",
+      "use_case": ["Daily Driver", "Performance"],
+      "base": "Debian",
+      "performance": 92,
+      "security": 88,
+      "desc": "Stable midweight distro with strong usability tools.",
+      "dl": "https://mxlinux.org/download-links/",
+      "docs": "https://mxlinux.org/manuals"
+    },
+    {
+      "name": "Fedora Silverblue",
+      "use_case": ["Security", "Daily Driver"],
+      "base": "Fedora",
+      "performance": 88,
+      "security": 97,
+      "desc": "Immutable desktop OS with atomic updates and container-first design.",
+      "dl": "https://fedoraproject.org/silverblue/",
+      "docs": "https://docs.fedoraproject.org/en-US/fedora-silverblue/"
+    },
+    {
+      "name": "openSUSE MicroOS",
+      "use_case": ["Security", "Workstation"],
+      "base": "Independent",
+      "performance": 90,
+      "security": 98,
+      "desc": "Immutable system with transactional updates for maximum stability.",
+      "dl": "https://microos.opensuse.org/",
+      "docs": "https://en.opensuse.org/Portal:MicroOS"
+    },
+    {
+      "name": "CachyOS",
+      "use_case": ["Performance", "Gaming"],
+      "base": "Arch",
+      "performance": 99,
+      "security": 75,
+      "desc": "Highly optimized Arch-based distro tuned for modern CPUs.",
+      "dl": "https://cachyos.org/download/",
+      "docs": "https://wiki.cachyos.org/"
+    },
+    {
+      "name": "Kali Linux",
+      "use_case": ["Security"],
+      "base": "Debian",
+      "performance": 60,
+      "security": 100,
+      "desc": "Industry standard penetration testing distro.",
+      "dl": "https://www.kali.org/get-kali/",
+      "docs": "https://www.kali.org/docs/"
+    },
+    {
+      "name": "Tails",
+      "use_case": ["Security"],
+      "base": "Debian",
+      "performance": 50,
+      "security": 100,
+      "desc": "Amnesic OS designed to leave no trace.",
+      "dl": "https://tails.net/install/",
+      "docs": "https://tails.net/doc/"
+    },
+    {
+      "name": "Arch Linux",
+      "use_case": ["Performance", "Daily Driver"],
+      "base": "Arch",
+      "performance": 95,
+      "security": 80,
+      "desc": "Minimal DIY Linux system built from the ground up.",
+      "dl": "https://archlinux.org/download/",
+      "docs": "https://wiki.archlinux.org/"
+    },
+    {
+      "name": "NixOS",
+      "use_case": ["Workstation", "Security"],
+      "base": "Independent",
+      "performance": 90,
+      "security": 95,
+      "desc": "Declarative OS where everything is defined in config.",
+      "dl": "https://nixos.org/download.html",
+      "docs": "https://nixos.org/learn.html"
+    }
+  ],
+
+  "Software": [
+    {
+      "name": "LibreWolf",
+      "category": "Browser",
+      "desc": "Privacy-hardened Firefox fork with telemetry removed.",
+      "url": "https://librewolf.net/"
+    },
+    {
+      "name": "Tor Browser",
+      "category": "Privacy",
+      "desc": "Anonymous browsing via Tor network.",
+      "url": "https://www.torproject.org/"
+    },
+    {
+      "name": "KeePassXC",
+      "category": "Security",
+      "desc": "Offline encrypted password manager.",
+      "url": "https://keepassxc.org/"
+    },
+    {
+      "name": "Bitwarden",
+      "category": "Security",
+      "desc": "Open-source password manager with sync.",
+      "url": "https://bitwarden.com/"
+    },
+    {
+      "name": "Cryptomator",
+      "category": "Encryption",
+      "desc": "Client-side encrypted cloud vault.",
+      "url": "https://cryptomator.org/"
+    },
+    {
+      "name": "WireGuard",
+      "category": "VPN",
+      "desc": "Fast modern VPN protocol built into Linux kernel.",
+      "url": "https://www.wireguard.com/"
+    },
+    {
+      "name": "OpenSnitch",
+      "category": "Firewall",
+      "desc": "Per-app firewall control for Linux.",
+      "url": "https://github.com/evilsocket/opensnitch"
+    },
+    {
+      "name": "Flatpak",
+      "category": "App Distribution",
+      "desc": "Sandboxed universal Linux app format.",
+      "url": "https://flatpak.org/"
+    },
+    {
+      "name": "Podman",
+      "category": "Containers",
+      "desc": "Daemonless Docker alternative.",
+      "url": "https://podman.io/"
+    },
+    {
+      "name": "GParted",
+      "category": "System Tools",
+      "desc": "Graphical disk partition editor.",
+      "url": "https://gparted.org/"
+    },
+    {
+      "name": "Timeshift",
+      "category": "Backup",
+      "desc": "System restore snapshots for Linux.",
+      "url": "https://github.com/linuxmint/timeshift"
+    },
+    {
+      "name": "BleachBit",
+      "category": "System Cleanup",
+      "desc": "Open-source system cleaner.",
+      "url": "https://www.bleachbit.org/"
+    },
+    {
+      "name": "Neovim",
+      "category": "Development",
+      "desc": "Modern extensible Vim-based editor.",
+      "url": "https://neovim.io/"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "Browsers": {
+    "firefox_focus": {
+      "name": "Firefox Focus",
+      "url": "https://apps.apple.com/app/firefox-focus/id1055677337",
+      "description": "Minimal privacy browser with automatic tracking protection and no history storage."
+    },
+    "brave": {
+      "name": "Brave Browser",
+      "url": "https://apps.apple.com/app/brave-browser/id1052879175",
+      "description": "Privacy-focused browser with built-in ad and tracker blocking."
+    },
+    "duckduckgo_browser": {
+      "name": "DuckDuckGo Browser",
+      "url": "https://apps.apple.com/app/duckduckgo-private-browser/id663592361",
+      "description": "Simple private browser with tracker blocking and app tracking protection."
+    }
+  },
+
+  "Search": {
+    "duckduckgo": {
+      "name": "DuckDuckGo",
+      "url": "https://apps.apple.com/app/duckduckgo-private-search/id695434341",
+      "description": "Privacy-focused search engine app with tracker blocking."
+    },
+    "startpage": {
+      "name": "Startpage",
+      "url": "https://apps.apple.com/app/startpage-private-search/id1567801739",
+      "description": "Private Google proxy search with no tracking."
+    }
+  },
+
+  "Messaging": {
+    "signal": {
+      "name": "Signal",
+      "url": "https://apps.apple.com/app/signal-private-messenger/id874139669",
+      "description": "End-to-end encrypted messaging with minimal metadata collection."
+    },
+    "session": {
+      "name": "Session",
+      "url": "https://apps.apple.com/app/session-private-messenger/id1470168868",
+      "description": "Anonymous messenger using onion-routing style infrastructure."
+    },
+    "element": {
+      "name": "Element",
+      "url": "https://apps.apple.com/app/element-matrix-services/id1083446067",
+      "description": "Decentralized Matrix-based secure messaging."
+    }
+  },
+
+  "2FA & Security": {
+    "authy": {
+      "name": "Authy",
+      "url": "https://apps.apple.com/app/authy/id494168017",
+      "description": "Multi-device 2FA authenticator with encrypted cloud sync."
+    },
+    "raivo_otp": {
+      "name": "Raivo OTP",
+      "url": "https://apps.apple.com/app/raivo-otp/id1459042137",
+      "description": "Local-only encrypted 2FA authenticator (privacy-focused)."
+    },
+    "1password": {
+      "name": "1Password",
+      "url": "https://apps.apple.com/app/1password-password-manager/id568903335",
+      "description": "Secure password manager with strong encryption and zero-knowledge design."
+    }
+  },
+
+  "VPN & Network": {
+    "proton_vpn": {
+      "name": "Proton VPN",
+      "url": "https://apps.apple.com/app/proton-vpn-fast-secure/id1437005085",
+      "description": "No-logs VPN with strong privacy protections and Swiss jurisdiction."
+    },
+    "mullvad": {
+      "name": "Mullvad VPN",
+      "url": "https://apps.apple.com/app/mullvad-vpn/id1488466513",
+      "description": "Anonymous VPN with no email/account requirement."
+    },
+    "cloudflare_1.1.1.1": {
+      "name": "1.1.1.1 WARP",
+      "url": "https://apps.apple.com/app/1-1-1-1-faster-internet/id1423538627",
+      "description": "Encrypted DNS and optional VPN tunnel for privacy."
+    }
+  },
+
+  "Storage & Files": {
+    "proton_drive": {
+      "name": "Proton Drive",
+      "url": "https://apps.apple.com/app/proton-drive-encrypted-storage/id1605468035",
+      "description": "End-to-end encrypted cloud storage."
+    },
+    "filen": {
+      "name": "Filen",
+      "url": "https://apps.apple.com/app/filen-cloud-storage/id1663734401",
+      "description": "Zero-knowledge encrypted cloud storage alternative."
+    }
+  },
+
+  "Notes & Productivity": {
+    "standard_notes": {
+      "name": "Standard Notes",
+      "url": "https://apps.apple.com/app/standard-notes/id1285392450",
+      "description": "Encrypted note-taking app with open-source architecture."
+    },
+    "obsidian": {
+      "name": "Obsidian",
+      "url": "https://apps.apple.com/app/obsidian-connected-notes/id1557175442",
+      "description": "Local-first note system with markdown vaults."
+    }
+  },
+
+  "Media & Streaming": {
+    "vlc": {
+      "name": "VLC for Mobile",
+      "url": "https://apps.apple.com/app/vlc-for-mobile/id650377962",
+      "description": "Open-source media player supporting almost all formats."
+    },
+    "pocket_casts": {
+      "name": "Pocket Casts",
+      "url": "https://apps.apple.com/app/pocket-casts-podcast-player/id414834813",
+      "description": "Privacy-respecting podcast player with no tracking-heavy ads."
+    }
+  },
+
+  "System Privacy Tools": {
+    "apple_privacy_settings": {
+      "name": "iOS Privacy Settings (Built-in)",
+      "url": "https://support.apple.com/en-us/HT211149",
+      "description": "App tracking control, permission isolation, and privacy reporting built into iOS."
+    },
+    "lockdown": {
+      "name": "Lockdown Privacy",
+      "url": "https://apps.apple.com/app/lockdown-privacy/id1469783711",
+      "description": "Local firewall-style blocker using VPN-based filtering."
+    }
+  }
+}
